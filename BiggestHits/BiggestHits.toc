@@ -1,0 +1,9 @@
+## Interface: 20503
+## Title: BiggestHits
+## Notes: Tracks highest normal hits and critical strikes for every spell across all characters.
+## Author: Clunker
+## Version: 1.0.0
+## SavedVariables: BiggestHitsDB
+
+BiggestHits.xml
+BiggestHits.lua
